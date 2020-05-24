@@ -9,7 +9,7 @@ def cipher(s):
             ciphered_s += chr(219 - ord(c))
         else:
             ciphered_s += c
-            # print(ciphered_s)
+        # print(ciphered_s)
     return ciphered_s
 
 
