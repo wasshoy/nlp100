@@ -1,0 +1,1 @@
+sed -e s/$'\t'/' '/g ./data/popular-names.txt > ./output/011-output.txt
