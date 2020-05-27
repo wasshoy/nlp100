@@ -1,0 +1,1 @@
+paste ./output/012sh-output-col1.txt ./output/012sh-output-col2.txt > ./output/013sh-output.txt
