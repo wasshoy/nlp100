@@ -1,0 +1,1 @@
+split -l 4 ./data/popular-names.txt
