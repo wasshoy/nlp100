@@ -1,0 +1,1 @@
+cut -f1,1 ./data/popular-names.txt | sort | uniq
