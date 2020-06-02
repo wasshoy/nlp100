@@ -10,4 +10,5 @@ df = pd.read_csv('./data/popular-names.txt', header=None, sep='\t')
 
 # 解2: Seriesのuniqueメソッドを使う
 result_2 = df[0].unique()  # デフォルトで頻度が高井淳
+# value_countsメソッドは値と回数
 print(*result_2, sep='\n')
