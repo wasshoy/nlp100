@@ -1,4 +1,3 @@
-from typing import Pattern
 import pandas as pd
 import re
 
