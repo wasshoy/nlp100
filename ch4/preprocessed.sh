@@ -1,0 +1,1 @@
+mecab < ./input/neko.txt > neko.txt.mecab # EOSが出る

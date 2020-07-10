@@ -3,4 +3,5 @@ data
 .idea
 input
 output
+.python-version
 .vscode
